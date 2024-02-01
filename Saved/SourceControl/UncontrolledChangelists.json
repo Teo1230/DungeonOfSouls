@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Vault/VaultOver.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Vault/VaultOver_Montage.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Assasination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Assasination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/Blueprints/BPDummy.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/Blueprints/BPI_Assanitaion.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XQ/G7K7UC28B2CK0H7CLTZBF9.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls2/DungeonOfSouls/Content/UI/BLP_AssasinateFont.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Crouch/Crouh_Walk.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Crouch/Crouch_Idle.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/ANM_ARG_Character.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Locomotion/Idle_Break.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Locomotion/Walk_Stop.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Crouch/CrouchBlendSpace1D.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Lean/Lean_Left.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Lean/Lean_Right.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/teomi/Desktop/Game/DungeonOfSouls/Content/Characters/RPG_Character/Animation/Lean/MM_Run_Fwd.uasset"
+			]
+		}
+	]
+}
