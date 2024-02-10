@@ -1,0 +1,64 @@
+Dungeon Of Souls
+Mihailescu Teodor 342
+10.02.2024 17:00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrierea detaliată a jocului
+Jocul presupune un jucator care trebuie sa omoare in fiecare nivel (primele 3 ) doar 3 boti ca sa treaca la nivelul urmator, iar nivelul 4 este de tip Boss. Jucatorul are iteme pe care le echipeaza in nivelul 1, are viata, stamina si nivel de experinta, unde se invata sa te joci. Omorand un NPC iti cresti nivelul.NPC urile au si ele viata, si te pot ataca.
+Specificații tehnice
+Jocul a fost dezovlat pe Windows 11 si ocupa 2.35 gb, nu are nevoie de pachete exterioare, iar versiunea de Unreal Enige este 5.3.1
+Tematica specifică:
+Categorie: aventura
+Arenă
+Adversari
+Niveluri
+Merite
+Jocul "Dungeon of Souls" este potrivit pentru o gamă diversă de jucători, cu un apel special către:
+Vârstă: Adolescenți și adulți datorită elementelor potențiale de luptă și temelor religioase.
+Personalitate: Jucători care se bucură de jocurile de acțiune-aventură, precum și cei interesați de teme supranaturale sau religioase.
+Interese: Cei pasionați de acțiune, aventură și dezvoltare de caractere în jocuri.
+Cadru social: Nu este limitat la un anumit mediu social și poate fi jucat de gameri din toate mediile.
+Jocul este Single Player si se poate termina in 10 minute, disponibil in engleza
+Acțiuni disponibile. Control
+W inainte
+S inapoi
+A stanga
+D dreapta
+Ctrl stanga crouch
+Shift stanga sprint
+C switch camera
+X rolling
+Click stanga attack combo
+Ctrl stanga + mouse assassination
+Tab vault
+E lock target
+F pick items
+B meniu items
+P pause meniu
+Clasele propria
+Am folosit clasa BD Third Persona pe care am modificat o adaugat atacuri,dodge,rolling, sprinting, widget uri (player stats), animatii, sunete
+Pentru NPC am extins clasa BD Third Persona pentru care am adaugat atacuri, widget uri (doar hp din player stats), animatii, sunete, dar si AI.
+Algoritmii
+Unelte de inteligență artificială din Unreal.
+Am folosit fara a instala doar Behaviour Tree ca sa se miste random si ca sa urmareasca playerul si sa l atace daca l vad
+Lista de taskuri realizate. 
+Sunt bifate cu verde in word ul celalalt.
+Lista de utilitare folosite
+Am folosit suntete descarcate pentru a crea sunteul de a merge, a alerga, a ataca
+Bibliografie
+https://twitter.com/GorkaGames
